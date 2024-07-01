@@ -1,5 +1,6 @@
 ## Hey there! I'm Samarpita 👋
 
+🔭 I’m currently working as a Research Assistant at the Centre for Brain Research, Indian Institute of Science (IISc)
 <!--
 **samarpita-saha293/samarpita-saha293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
