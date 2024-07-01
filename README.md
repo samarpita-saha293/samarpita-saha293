@@ -3,7 +3,7 @@
 🔭 I’m currently working as a Research Assistant at the Centre for Brain Research, Indian Institute of Science (IISc)
 
 <div id="header" align="right">
-  <img src="https://giphy.com/stickers/computer-mushroom-mushie-QwytuIpLe6ECTghRpN" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdrNjFoNG9zdzRwN2xqM3BwN3ptbnh1Z2N2d2psdWpjdWJydHY1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QwytuIpLe6ECTghRpN/giphy.gif" width="100"/>
 </div>
 
 
