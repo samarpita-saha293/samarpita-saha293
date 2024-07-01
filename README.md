@@ -4,7 +4,7 @@
 <div id="header" align="right">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdrNjFoNG9zdzRwN2xqM3BwN3ptbnh1Z2N2d2psdWpjdWJydHY1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QwytuIpLe6ECTghRpN/giphy.gif" width="100"/>
 </div>
-My research interests include genomic epidemiology.
+My research interests include genomic epidemiology, statistical genetics, Biological Big Data Analytics.
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t1bXRpMHJlOGgwMGRmNWJvM3RwajZ2OXNmMm1nb2xmY3FnY3BjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5YEgIWPd2TlR6NHfg/giphy.gif" width="500"/>
 </div>
